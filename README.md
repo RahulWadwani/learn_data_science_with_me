@@ -71,7 +71,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
   - you can checkout my kaggle account using this link :
   ---------------------------------------------------------------------
-  --- link = https://www.kaggle.com/rahulwadwani
+           link = https://www.kaggle.com/rahulwadwani
   ---------------------------------------------------------------------
 - if you do like my kaggle account please upvote my work and please do share and help me improve my work or comment on the discussion
 _____________________________________________________________________________________
