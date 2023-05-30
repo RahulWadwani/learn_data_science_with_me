@@ -1,0 +1,2 @@
+{"64": {"name": "Joshua little", "marks": [75, 85, 68, 69, 96], "total": 393, "average": 78.6},
+"63": {"name": "Rahul", "marks": [93, 86, 76, 86, 96], "total": 437, "average": 87.4}}
